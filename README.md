@@ -11,3 +11,7 @@
   <img src="https://img.shields.io/badge/JWT-Auth-black?style=flat&logo=jsonwebtokens"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
 </p>
+> **RESTful backend for the BrewBite Admin Panel** — the management layer behind the [BrewBite Android App](https://github.com/Melikash98/BrewBiteApp).  
+> Built with Spring Boot, secured with JWT, and designed around 8 clean business modules.
+
+---
