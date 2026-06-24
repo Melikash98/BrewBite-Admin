@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/Melikash98/BrewBiteApp/main/logoApp.png" alt="Logo" width="80px" height="80px" style="margin-right: 10px;" />
   BrewBite Admin — Backend API
 </h1>
-**RESTful backend for the administrative panel of the BrewBite café & bakery ordering platform**
 
+**RESTful backend for the administrative panel of the BrewBite café & bakery ordering platform**
 [![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Primary%20DB-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
@@ -12,8 +12,6 @@
 [![JWT](https://img.shields.io/badge/JWT-Auth-black?style=flat&logo=jsonwebtokens)](https://jwt.io)
 [![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-</div>
 
 ---
 ##  Overview
